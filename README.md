@@ -13,7 +13,7 @@ Step 3: Write some test cases for to be tested and save it as “test_sumofdig.p
 Step 4: Open command prompt and change the directory to where pytest and program is
 saved and type “pytest test_sumofdig.py” and run it.
 
-Step 5: Stop the program. 
+Step 5: Stop the program.
 # Program: 
 EX13.py
 ```
